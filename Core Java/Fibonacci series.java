@@ -1,6 +1,6 @@
 package javacore;
 
-public class fabbonaciseries {
+public class fibonacciseries {
 
 	public static void main(String[] args) {
 		int fstnum=0;
